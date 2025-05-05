@@ -22,7 +22,7 @@ implemented user metadata scraping, got user posts and metadata for better inter
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/tawishicodes/six_scrapping-
+git clone https://github.com/sixsocial/six_scrapping-
 cd six_scrapping-
 
 
